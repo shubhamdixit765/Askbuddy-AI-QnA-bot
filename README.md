@@ -5,6 +5,7 @@
 It provides a modern chat interface where users can ask questions and engage in multi-turn conversations while preserving session history.
 
 ---
+<img width="1464" height="880" alt="Screenshot 2026-07-22 at 3 59 46 PM" src="https://github.com/user-attachments/assets/96e13256-c3f2-4f2b-844a-c57cefdcd35a" />
 
 ## 🚀 Features
 
