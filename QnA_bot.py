@@ -24,7 +24,6 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # Initialize the Gemini language model
 # It automatically reads the GOOGLE_API_KEY from the environment
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
-#llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash")
 
 # Display the title of the Streamlit application
 st.title("🤖 AskBuddy - AI QnA Bot")
